@@ -1,0 +1,18 @@
+{
+  "tiktok": {
+    "base_url": "https://www.tiktok.com/api/search/user/full/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36",
+    "timeout": 10
+  },
+  "scraper": {
+    "max_items": 50,
+    "sleep_between_requests": 1.0
+  },
+  "output": {
+    "directory": "data",
+    "format": "json"
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}
