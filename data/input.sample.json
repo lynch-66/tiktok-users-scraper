@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "fashion",
+    "makeup"
+  ],
+  "maxItems": 50,
+  "outputFormat": "json"
+}
